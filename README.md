@@ -35,7 +35,7 @@ In the following I list my most relevant projects in reversed chronological orde
 
 #### Python 🐍 
 
-- [muPRL]([https://example.com](https://github.com/testingautomated-usi/muPRL)): a mutation testing tool for RL agents
+- [muPRL](https://github.com/testingautomated-usi/muPRL): a mutation testing tool for RL agents
 - [GenBo](https://github.com/testingautomated-usi/genbo): a test generator that generates boundary conditions to test and improve a self-driving model
 - [CPS Tool Competition Pipeline](https://github.com/sbft-cps-tool-competition/cps-tool-competition): a test generation pipeline to test self-driving models using the [BeamNG](https://www.beamng.tech/) simulator
 - [Maxibon](https://github.com/testingautomated-usi/maxitwo): digital siblings framework for assessing the sim-to-real gap when testing a self-driving model
