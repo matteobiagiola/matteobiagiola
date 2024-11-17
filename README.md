@@ -4,7 +4,7 @@ Software Engineering | Software Testing | SE4AI & AI4SE | Postdoctoral Researche
 
 ### 👨‍💻 About Me :
 
-I am interested in software testing 🧪 with a particular focus on test generation. I have built tools to automatically generate tests for Web applications 🌐 and Deep Reinforcement Learning 🤖 agents. I am also proficient in testing Self-driving car software in simulation and training DL/RL models to drive a small scale physical vehicle 🚗.
+I am interested in software testing 🧪 with a particular focus on test generation. I have built tools to automatically generate tests for Web applications 🌐 and Deep Reinforcement Learning 🤖 agents. I am also proficient in testing Self-driving car software in simulation, and in training DL/RL models to drive a small-scale physical vehicle 🚗.
 
 ### 🛠️ Languages and Tools :
 
